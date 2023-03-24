@@ -1,0 +1,23 @@
+table, th, td {
+    border: 2px solid red;
+    border-collapse: collapse;
+    width:fit-content;
+    height:max-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+
+
+body {
+    background-color:lightgrey;
+    background-blend-mode: hard-light;
+    color: darkmagenta;
+    font-weight: bold;
+}
